@@ -2,6 +2,6 @@
 
 CV or resume for 
 
-## Bernardo Agustín Amenabar Larraín
+## Bernardo Agustín Amenábar Larraín
 
 web person, dev, designer
