@@ -6,7 +6,7 @@ web developer
 
 full name: Bernardo Agustín Amenábar Larraín
 
-[iminabar.com](http://iminabar.com) – [GitHub](https://github.com/baamenabar) – [Code Blog](http://code.medula.cl) – [More links at the bottom](#endlessLinks) 
+[GitHub](https://github.com/baamenabar) – [Code Blog](http://code.medula.cl) – [More links at the bottom](#endlessLinks) 
 
 ## Summary
 
@@ -27,7 +27,7 @@ Doing the most varied client work since 2004, always elbow to elbow with designe
 * OOP ActionScript 3 (many years doing that, still good at it).
 * Project management and Client relations.
 * PHP : Several styles of coding.
-* Javascript 
+* Javascript
 * MySQL
 * LAMP/WAMP server management (many years managing webhosting for many clients).
 
