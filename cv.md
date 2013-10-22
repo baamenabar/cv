@@ -12,11 +12,11 @@ full name: Bernardo Agustín Amenábar Larraín
 
 Graphic Designer by profession, web developer by choice. 
 
-Working the web as a generalist, expert in the areas that need coverage. Huge fan of the 80/20 way of looking at problems.
+Working the web as a generalist, focusing on the problems that need solving, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 project management rule when time is scarce.
 
 A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Down to earth seasoned project manager. 
 
-Doing the most varied client work since 2004. Love to try new technologies and new approaches to solve problems, from UX to server–side optimization.
+Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side optimization, a wide view of problems usually let's me find solutions where they are most effective.
 
 ## Skills
 
