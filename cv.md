@@ -153,7 +153,7 @@ Client services agency dedicated to 3 areas:
 
 ----
 
-### May 2006 – April 2009: VOXEL DISEÑO / MEDULA DISEÑO
+### May 2006 – April 2013: VOXEL DISEÑO / MEDULA DISEÑO
 
 Client services agency dedicated to Graphic Design, inteactive design and web development. Branch of Voxel Multimedia. On April of 2009 one partner sold his part to us and we became *Médula Diseño*.
 
