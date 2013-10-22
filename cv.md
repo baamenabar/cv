@@ -10,13 +10,13 @@ full name: Bernardo Agustín Amenábar Larraín
 
 ## Summary
 
-Graphic Designer by profession, web developer by choice. 
+Graphic Designer by profession, web developer by choice, self employed most of my career. 
 
 Working the web as a generalist, focusing on the problems that need solving, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, specially when time is scarce.
 
-A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Down to earth seasoned project manager. 
+A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Down to earth seasoned project manager. Expert in developing custom code to perfectly fit the problems of my clients.
 
-Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side optimization, a wide view of problems usually let's me find solutions where they are most effective.
+Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side optimization, a wide view of problems usually lets me find solutions where they are most effective.
 
 ## Skills
 
@@ -24,7 +24,7 @@ Doing the most varied client work since 2004, always elbow to elbow with designe
 
 * HTML / CSS Progressive enhancement, mobile first, responsive web design – development.
 * HTML semantic markup (`<i>` isn't for _icon_).
-* OOP ActionScript 3 (many years doing that, still good at it <small>strict typing is delicious</small>).
+* OOP ActionScript 3 (many years doing that, still good at it).
 * Project management and Client relations.
 * PHP : Several styles of coding.
 * Javascript 
@@ -33,7 +33,7 @@ Doing the most varied client work since 2004, always elbow to elbow with designe
 
 ### Frameworks / CMSs
 
-Listed here only what I'm fluent with, the rest are pretty much the same.
+Listed here is only what I'm fluent in. I have working knowledge of many more.
 
 * Sencha Touch 2
 * jQuery
@@ -44,7 +44,8 @@ Listed here only what I'm fluent with, the rest are pretty much the same.
 ### Day to day Tools
 
 * Git
-* Command line, SSH, console
+* Command line / console
+* SSH
 * Sublime Text
 * SASS/Compass
 * Adobe Photoshop
@@ -52,10 +53,11 @@ Listed here only what I'm fluent with, the rest are pretty much the same.
 * Adobe Flash IDE
 * Adobe Edge Animate
 * LESS
+* Paymo
 
 ## Personal projects
 
-Some work fine, some are inactive, some are incomplete; all could use some more work.
+Some work fine, some are work in progress; all could use some more work.
 
 * **[SVGfall](https://github.com/baamenabar/svgfall)** SVG images with reliable fast fallback to bitmap.
 * **[jQuery File Upload and Crop](https://github.com/baamenabar/jQuery-File-Upload-and-Crop)** Friendly multiple image uploader with a crop window. [Demo page](http://g.m0.cl/crop/). Forked from [BlueImp's jQuery Uploader](https://github.com/blueimp/jQuery-File-Upload).
@@ -66,7 +68,71 @@ Some work fine, some are inactive, some are incomplete; all could use some more 
 
 ## Dearest client's projects
 
-### 
+### JZMusic (2012 - 2013) _in Beta_
+
+[jzmusic.cl](http://jzmusic.cl/stage/)
+
+The My earliest client, since our first conversation 9 years ago, he has had creative ideas about his site, I have just give them wings. 
+
+This version is a full responsive, mobile first website. SVGfall and picturefill helping with the images. Custom Javascript throughout the site. Drupal site for the clients events.
+
+----
+
+### Paz Vial (2010 - 2013)
+
+[pazvial.cl](http://pazvial.cl/)
+
+A long project that turned a Flash image gallery into a full fledged online store. Custom code, front to back. I co-designed the site, coded the full front and back end and integrated a modified version of my **[jQuery File Upload and Crop](https://github.com/baamenabar/jQuery-File-Upload-and-Crop)** project.
+
+----
+
+### Assa Abloy Chile (2011 - 2013)
+
+[assaabloy.cl](http://www.assaabloy.cl)
+
+A long project where I did the information architecture based on the printed catalogs they had. Then designed the data structure of the CMS and the user flow. For the final stage I assembled and directed a team of remote developers.
+
+While one showed me the magic of doing CSS with compass/sass, the other marveled me with the MVC framework CodeIgniter.
+
+Again I integrated a modified version of my **[jQuery File Upload and Crop](https://github.com/baamenabar/jQuery-File-Upload-and-Crop)** project, for the administration of banners, it was a great success with the admins of the site.
+
+----
+
+### Driver (2012)
+
+[driver.cl](http://www.driver.cl/)
+
+I conceived and completely developed the **WDIT Andoid app**. It was developed with Sencha Touch 2 and Cordova as a proof of concept. 
+
+The application allows users to select the activities assigned to them and check every task or sub step which can be also verified by a picture that gets uploaded to the server when connection is available.
+
+The app has an admin back-end to generate and control activities, tasks, users and permissions.
+
+I developed also a whole suite of web software. From a Wordpress site, an internal document publishing web app. To a custom android app.
+
+Some of this process I documented in [my blog](http://code.medula.cl/).
+
+----
+
+### VIK Winery (2011)
+
+[vik.cl](http://www.vik.cl/)
+
+Complete rebuild of a Flash Site retaining most of the look and layout, but coding with mobile-first responsive site. Including an adaptive images script which uses Javascript and PHP to load the adequate size images. The site tas tested to work from IE7 to Blackberry 5, including common Android and iOS devices and browsers.
+
+----
+
+### Nescappuccino Game (Nestle) (2011)
+
+Script, design, art direction, project direction and development of a Game for the sales forces of Nestlé Pro, in Chile. 
+
+Here I learned the immense amount of work involved in game development, and learned about many runtime optimization techniques and testing techniques.
+
+----
+
+### Older stuff
+
+There's older stuff, but it's mostly Flash / ActionScript, even though there's some cool things, like a [realtime rendering 3D experimental site](http://medula.cl/as-p/main.php) (must click PORTAFOLIO -> 2010).
 
 ## Work Experience
 
@@ -85,6 +151,8 @@ Client services agency dedicated to 3 areas:
 * Design and development of multimedia interactive software (Flash and Director).
 * Design and development of websites.
 
+----
+
 ### May 2006 – April 2009: VOXEL DISEÑO / MEDULA DISEÑO
 
 Client services agency dedicated to Graphic Design, inteactive design and web development. Branch of Voxel Multimedia. On April of 2009 one partner sold his part to us and we became *Médula Diseño*.
@@ -97,15 +165,30 @@ Client services agency dedicated to Graphic Design, inteactive design and web de
 * Design and development of websites.
 * Design and development of multimedia interactive software (Flash and Director).
 
+## Education
+
+### School
+Colegio Cumbres, Santiago, Chile.
+(1986 – 1998)
+
+### College
+Universidad Finis Terrae (1999 – 2005)
+
+Bachelor's degree in Graphic Design.
+
 ## Languages
 
 Bilingual in English and Spanish.
 
-## Manic about
+## Personal information
 
-* UTF-8 encoding
-* Typographic semantics and orthography
-* Proper image formats
+* **Full name:** Bernardo Agustín Amenábar Larraín
+* **Birth date:** March 14, 1981
+* **Address:** <br> Camino agua del Carrizal 9570, Lo barnechea <br>Santiago, Chile
+* **email:** baamenabar@gmail.com
+* **Telepone:** +562 2918 0224
+* **Nationality:** Chilean
+* **Marital status:** Married
 
 <h2 id="endlessLinks">Links elsewhere</h2>
 
