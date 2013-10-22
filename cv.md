@@ -12,7 +12,7 @@ full name: Bernardo Agustín Amenábar Larraín
 
 Graphic Designer by profession, web developer by choice. 
 
-Working the web as a generalist, focusing on the problems that need solving, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 project management rule when time is scarce.
+Working the web as a generalist, focusing on the problems that need solving, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, specially when time is scarce.
 
 A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Down to earth seasoned project manager. 
 
@@ -80,7 +80,7 @@ Client services agency dedicated to 3 areas:
 
 **Charge:**  Designer / Web Designer.
 
-Responsabilities:
+#### Responsabilities:
 
 * Design and development of multimedia interactive software (Flash and Director).
 * Design and development of websites.
@@ -89,12 +89,17 @@ Responsabilities:
 
 Client services agency dedicated to Graphic Design, inteactive design and web development. Branch of Voxel Multimedia. On April of 2009 one partner sold his part to us and we became *Médula Diseño*.
 
-**Charge:** Partner and Developer.
-Responsabilities: 
+**Charge:** Partner and Senior Developer.
+
+#### Responsabilities: 
 
 * Project management.
-* Design and development of multimedia interactive software (Flash and Director).
 * Design and development of websites.
+* Design and development of multimedia interactive software (Flash and Director).
+
+## Languages
+
+Bilingual in English and Spanish.
 
 ## Manic about
 
