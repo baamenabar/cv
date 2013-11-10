@@ -13,11 +13,11 @@ Graphic Designer by profession, web developer by choice, self employed most of m
 
 Working the web as a generalist, focusing on the problems that need solving, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, specially when time is scarce.
 
-A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Down to earth seasoned project manager. Expert in developing custom code to perfectly fit the problems of my clients.
+A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Doing responsive design since the era of full Flash sites. Down to earth seasoned project manager. Expert in developing custom code to perfectly fit the problems of my clients.
 
 Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side optimization, a wide view of problems usually lets me find solutions where they are most effective.
 
-## Skills
+## Skills, Languajes and Tools
 
 ### In order of dexterity 
 
@@ -32,9 +32,9 @@ Doing the most varied client work since 2004, always elbow to elbow with designe
 
 ### Frameworks / CMSs
 
-Listed here is only what I'm fluent in. I have working knowledge of many more.
+Listed here is only what I'm fluent in and what I like working with. I have working knowledge of many more.
 
-* Sencha Touch 2
+* Sencha Touch 2 (MVC javascript)
 * jQuery
 * Wordress
 * Drupal
@@ -95,6 +95,8 @@ A long project where I did the information architecture based on the printed cat
 While one showed me the magic of doing CSS with compass/sass, the other marveled me with the MVC framework CodeIgniter.
 
 Again I integrated a modified version of my **[jQuery File Upload and Crop](https://github.com/baamenabar/jQuery-File-Upload-and-Crop)** project, for the administration of banners, it was a great success with the admins of the site.
+
+In May 2013 addapted the [Simplecart-JS](https://github.com/wojodesign/simplecart-js) library to make a quotation cart for the site. It works completely in the front end, using localstorage and cookies to manage the “session”.
 
 ----
 
