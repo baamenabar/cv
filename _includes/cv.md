@@ -1,12 +1,11 @@
-﻿# CV – Résumé
-
+﻿
 ## Agustín Amenábar L.
 
 web developer
 
 full name: Bernardo Agustín Amenábar Larraín
 
-[GitHub](https://github.com/baamenabar) – [Code Blog](http://code.medula.cl) – [More links at the bottom](#links-elsewhere) 
+[GitHub](https://github.com/baamenabar) – [Code Blog](http://code.medula.cl) – [More links at the bottom](#endless-links) 
 
 ## Summary
 
@@ -61,8 +60,9 @@ Some work fine, some are work in progress; all could use some more work.
 
 * **[SVGfall](https://github.com/baamenabar/svgfall)** SVG images with reliable fast fallback to bitmap.
 * **[jQuery File Upload and Crop](https://github.com/baamenabar/jQuery-File-Upload-and-Crop)** Friendly multiple image uploader with a crop window. [Demo page](http://g.m0.cl/crop/). Forked from [BlueImp's jQuery Uploader](https://github.com/blueimp/jQuery-File-Upload).
+* **[Draggable elements bookmarklet](https://github.com/baamenabar/draggable-bookmarklet)** jQuery and jQuery UI bookmarklet to easily make any element draggable with relative, absolute or fixed positioning.
 * **[Liquen-php](https://github.com/baamenabar/Liquen-php)** PHP image manipulation class (resize, crop and caching) [Demo](http://g.m0.cl/liquen-php/)
-* **[PNG with PHP](https://github.com/baamenabar/simplePNGwPHP)** GET a simple PNG entering with, height and RGBA values.
+* **[PNG with PHP](https://github.com/baamenabar/simplePNGwPHP)** GET a simple PNG entering width, height and RGBA values.
 * **[Medula codeBlog / SLyP](https://github.com/baamenabar/codeBlog)** My attempt to build a satic blog generator after only hearing about Jekyll. Still remains as my code blog.
 * **[Musicador](https://github.com/baamenabar/Musicador)** Music player designed for creating, managing and migrating _roleplaying_ music (mp3 files).
 
@@ -155,7 +155,7 @@ Client services agency dedicated to 3 areas:
 
 ### May 2006 – April 2013: VOXEL DISEÑO / MEDULA DISEÑO
 
-Client services agency dedicated to Graphic Design, inteactive design and web development. Branch of Voxel Multimedia. On April of 2009 one partner sold his part to us and we became *Médula Diseño*.
+Client services agency dedicated to Graphic Design, inteactive design and web development. Branch of Voxel Multimedia. On April of 2009 one partner sold his part to my wife and me and we became *Médula Diseño* where my wife Violeta Sánchez E. does most of the design job and I the development.
 
 **Charge:** Partner and Senior Developer.
 
@@ -190,7 +190,7 @@ Bilingual in English and Spanish.
 * **Nationality:** Chilean
 * **Marital status:** Married
 
-<h2 id="endlessLinks">Links elsewhere</h2>
+<h2 id="endless-links">Links elsewhere</h2>
 
 * [Twitter (en)](https://twitter.com/ImINaBAR)
 * [Twitter (es)](https://twitter.com/baamenabar)
