@@ -5,7 +5,7 @@ web developer
 
 full name: Bernardo Agustín Amenábar Larraín
 
-[GitHub](https://github.com/baamenabar) – [Code Blog](http://code.medula.cl) – [More links at the bottom](#endless-links) 
+[ImINaBAR.com (CV)](http://iminabar.com) – [GitHub](https://github.com/baamenabar) – [Code Blog](http://code.medula.cl) – [More links at the bottom](#endless-links) 
 
 ## Summary
 
