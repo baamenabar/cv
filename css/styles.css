@@ -503,7 +503,7 @@ article footer {
 @media (min-width: 923px) {
   /* line 136, ../sass/styles.scss */
   #logo {
-    position: absolute;
+    position: fixed;
     top: 10px;
     left: 10px;
   }
