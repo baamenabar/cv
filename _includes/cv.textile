@@ -12,9 +12,9 @@ h2. Summary
 
 Graphic Designer by profession, web developer by choice, self employed most of my career. 
 
-Mediating between my clients and their users, facilitating their interaction and goals trough web technologies. Working the web as a generalist, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, specially when time is scarce.
+Mediating between my clients and their users, facilitating their interaction and goals through web technologies. Working the web as a generalist, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, especially when time is scarce.
 
-User eXperience is the new term for what has driven my work for more than 8 years. Doing responsive design since the era of full Flash sites. Down to earth seasoned project manager. A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Expert in developing custom code to perfectly fit the problems of my clients.
+User eXperience is the new term for what has driven my work for more than 8 years. Doing responsive design since the era of full Flash sites. Down to earth seasoned project manager. A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Expert in developing that perfectly fits my clients' needs.
 
 Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side optimization, a wide view of problems usually lets me find solutions where they are most effective.
 
@@ -71,7 +71,7 @@ h4(the-year). (2012 - 2013)
 
 My earliest client, since our first conversation 9 years ago, he has had creative ideas about his site, together we have built many tools clients love. 
 
-This latest version is a full responsive, mobile first website. Custom JavaScript throughout the site. Drupal private site for the clients events, with a playlist generator. (ask me for access to a demo account)
+This latest version is a full responsive, mobile first website. Custom JavaScript throughout the site. Drupal private site for the clients' events, with a playlist generator. (ask me for access to a demo account)
 
 <hr>
 
@@ -81,11 +81,11 @@ h4(the-year). (2010 - 2013)
 
 "pazvial.cl":http://pazvial.cl/
 
-A long project that turned a Flash image gallery into a full fledged online store. Custom code, front to back. I designed the UI for te back-end and coded the whole site. Co-designed the client side defining visitor goals and tasks. Special attention in the client-side was dedicated to the color selector when you want to add a ceramic product to your cart: "http://pazvial.cl/item.php?id=483":http://pazvial.cl/item.php?id=483 where you mus select one or many colors for your custom piece.
+A long project that turned a Flash image gallery into a full fledged online store. Custom code, front to back. I designed the UI for the back-end and coded the whole site. Co-designed the client side defining visitor goals and tasks. Special attention in the client-side was dedicated to the color selector when you want to add a ceramic product to your cart: "http://pazvial.cl/item.php?id=483":http://pazvial.cl/item.php?id=483 where you must select one or many colors for your custom piece.
 
 Coded the full front and back-end and integrated a modified version of my **"jQuery File Upload and Crop":https://github.com/baamenabar/jQuery-File-Upload-and-Crop** project.
 
-You can visit the admin panel of a clone at: "http://m0.cl/pazvial.cl/extranet/":http://m0.cl/pazvial.cl/extranet/ (ask me for a user and password) Most notably was the emphasis on simplicity and ease of use of the admin panel (WordPress had too many buttons).
+You can visit the admin panel of a clone at: "http://m0.cl/pazvial.cl/extranet/":http://m0.cl/pazvial.cl/extranet/ (ask me for a username and password) Most notably was the emphasis on simplicity and ease of use of the admin panel (WordPress had too many buttons).
 
 <hr>
 
@@ -95,15 +95,15 @@ h4(the-year). (2011 - 2013)
 
 "assaabloy.cl":http://www.assaabloy.cl
 
-A long project where I did the information architecture based on the printed catalogs they had. Then designed the data structure of the CMS and the user flow. For the final stage I assembled and directed a team of remote developers.
+In this long-term project, I did the information architecture based on the printed catalogs they had, then designed the data structure of the CMS and the user flow. For the final stage I assembled and directed a team of remote developers.
 
-While one showed me the magic of doing CSS with compass/sass, the other marveled me with the MVC framework CodeIgniter.
+While one showed me the magic of doing CSS with Compass/SASS, the other amazed me with the MVC framework CodeIgniter.
 
 Again I integrated a modified version of my **"jQuery File Upload and Crop":https://github.com/baamenabar/jQuery-File-Upload-and-Crop** project, for the administration of banners, it was a great success with the admins of the site.
 
 Additionally we developed a whole suite of video tutorials to be displayed on the dashboard of the Admin panel which explain the use of the different parts of the site administration process. Since then we deliver every site with a video tutorial suite.
 
-In May 2013 adapted the "Simplecart-JS":https://github.com/wojodesign/simplecart-js library to make a quotation cart for the site. It works completely in the front end, using local-storage and cookies to manage the “session”, and sends a predefined quotation for the sales team to fill and return to the customer.
+In May 2013, I adapted the "Simplecart-JS":https://github.com/wojodesign/simplecart-js library to make a quotation cart for the site. It works completely in the front end, using local-storage and cookies to manage the “session”, and sends a predefined quotation for the sales team to fill and return to the customer.
 
 <hr>
 
