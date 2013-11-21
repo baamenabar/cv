@@ -50,7 +50,6 @@ h3(break-page-before). Day to day Tools
 * Pen and paper (colors too)
 * Git
 * Command line / console
-* SSH
 * SASS/Compass
 * Adobe Photoshop
 * Adobe Illustrator
