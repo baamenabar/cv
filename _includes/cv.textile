@@ -12,35 +12,35 @@ h2. Summary
 
 Graphic Designer by profession, web developer by choice, self employed most of my career. 
 
-Mediating between my clients and their users, facilitating their interaction and goals trough web technologies. Working the web as a generalist, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, specially when time is scarce.
+Mediating between my clients and their users, facilitating their interaction and goals through web technologies. Working the web as a generalist, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, especially when time is scarce.
 
-User eXperience is the new term for what has driven my work for more than 8 years. Doing responsive design since the era of full Flash sites. Down to earth seasoned project manager. A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Expert in developing custom code to perfectly fit the problems of my clients.
+User eXperience is the new term for what has driven my work for more than 8 years. Doing responsive design since the era of full Flash sites. Down to earth seasoned project manager. A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Expert in developing that perfectly fits my clients' needs.
 
 Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side optimization, a wide view of problems usually lets me find solutions where they are most effective.
 
-h2(break-page-before). Skills, Languajes and Tools
+h2(break-page-before). Skills, Languages and Tools
 
 h3. In order of dexterity 
 
-* HTML / CSS Progressive enhancement, mobile first, responsive web design – development.
-* Project management and Client relations.
-* User experience / UI design
-* HTML semantic markup (@<i>@ isn't for _icon_).
+* HTML / CSS – (6 years) + Progressive enhancement, mobile first, responsive web design.
+* Project management and Client relations. (8 years)
+* User experience / UI design. (7 years)
+* HTML semantic markup (@<i>@ isn't for _icon_). (6 years)
 * OOP ActionScript 3 (many years doing that, still good at it).
-* PHP : Several styles of coding.
-* JavaScript
-* MySQL
-* LAMP/WAMP server management (many years managing webhosting for many clients).
+* PHP : Several styles of coding. (7 years)
+* JavaScript (6 years)
+* MySQL (7 years)
+* LAMP/WAMP server management (many years managing web-hosting for many clients).
 
 h3. Frameworks / CMSs
 
 Listed here is only what I'm fluent in and what I like working with. I have working knowledge of many more.
 
-* Sencha Touch 2 (MVC javascript)
-* jQuery
-* Wordress
-* Drupal
-* Code Igniter
+* Sencha Touch 2 (MVC JavaScript) (2 years)
+* jQuery (5 years)
+* WordPress (5 years)
+* Drupal (1 year)
+* Code Igniter (2 years)
 
 h3(break-page-before). Day to day Tools
 
@@ -50,7 +50,6 @@ h3(break-page-before). Day to day Tools
 * Pen and paper (colors too)
 * Git
 * Command line / console
-* SSH
 * SASS/Compass
 * Adobe Photoshop
 * Adobe Illustrator
@@ -61,7 +60,7 @@ h3(break-page-before). Day to day Tools
 
 h2. Dearest client's projects
 
-All of the work in "medula.cl":http://medula.cl has been done under my lead, but some of the most notable are:
+All of the work in "medula.cl":http://medula.cl has been done under my lead; most, directly by me. Some of the most notable are:
 
 h3. JZMusic: event production + clients accounts 
 
@@ -69,9 +68,9 @@ h4(the-year). (2012 - 2013)
 
 "jzmusic.cl":http://jzmusic.cl/stage/
 
-The My earliest client, since our first conversation 9 years ago, he has had creative ideas about his site, Togeder we have built many tools clients love. 
+My earliest client, since our first conversation 9 years ago, he has had creative ideas about his site, together we have built many tools clients love. 
 
-This version is a full responsive, mobile first website. Custom Javascript throughout the site. Drupal private site for the clients events, with a playlist generator. (ask me for a user and password)
+This latest version is a full responsive, mobile first website. Custom JavaScript throughout the site. Drupal private site for the clients' events, with a playlist generator. (ask me for access to a demo account)
 
 <hr>
 
@@ -81,27 +80,29 @@ h4(the-year). (2010 - 2013)
 
 "pazvial.cl":http://pazvial.cl/
 
-A long project that turned a Flash image gallery into a full fledged online store. Custom code, front to back. I designed the UI for te backend and coded the whole site. Co-designed the client side defining visitor goals and tasks, coded the full front and back end and integrated a modified version of my **"jQuery File Upload and Crop":https://github.com/baamenabar/jQuery-File-Upload-and-Crop** project.
+A long project that turned a Flash image gallery into a full fledged online store. Custom code, front to back. I designed the UI for the back-end and coded the whole site. Co-designed the client side defining visitor goals and tasks. Special attention in the client-side was dedicated to the color selector when you want to add a ceramic product to your cart: "http://pazvial.cl/item.php?id=483":http://pazvial.cl/item.php?id=483 where you must select one or many colors for your custom piece.
 
-You can visit the admin panel of a clone at: "http://m0.cl/pazvial.cl/extranet/":http://m0.cl/pazvial.cl/extranet/ (ask me for a user and password)
+Coded the full front and back-end and integrated a modified version of my **"jQuery File Upload and Crop":https://github.com/baamenabar/jQuery-File-Upload-and-Crop** project.
+
+You can visit the admin panel of a clone at: "http://m0.cl/pazvial.cl/extranet/":http://m0.cl/pazvial.cl/extranet/ (ask me for a username and password) Most notably was the emphasis on simplicity and ease of use of the admin panel (WordPress had too many buttons).
 
 <hr>
 
-h3. Assa Abloy Chile: e-commerce 
+h3(break-page-before). Assa Abloy Chile: e-commerce 
 
 h4(the-year). (2011 - 2013)
 
 "assaabloy.cl":http://www.assaabloy.cl
 
-A long project where I did the information architecture based on the printed catalogs they had. Then designed the data structure of the CMS and the user flow. For the final stage I assembled and directed a team of remote developers.
+In this long-term project, I did the information architecture based on the printed catalogs they had, then designed the data structure of the CMS and the user flow. For the final stage I assembled and directed a team of remote developers.
 
-While one showed me the magic of doing CSS with compass/sass, the other marveled me with the MVC framework CodeIgniter.
+While one showed me the magic of doing CSS with Compass/SASS, the other amazed me with the MVC framework CodeIgniter.
 
 Again I integrated a modified version of my **"jQuery File Upload and Crop":https://github.com/baamenabar/jQuery-File-Upload-and-Crop** project, for the administration of banners, it was a great success with the admins of the site.
 
-Adittionaly we developed a whole suite of video tutorials to be displayed on the dashboard of the Admin panel which explain the use of the different parts of the site administration process. Since then we deliver every site with a video tutorial suite.
+Additionally we developed a whole suite of video tutorials to be displayed on the dashboard of the Admin panel which explain the use of the different parts of the site administration process. Since then we deliver every site with a video tutorial suite.
 
-In May 2013 addapted the "Simplecart-JS":https://github.com/wojodesign/simplecart-js library to make a quotation cart for the site. It works completely in the front end, using localstorage and cookies to manage the “session”, and sends a predefined quotation for the sales team to fill and return to the customer.
+In May 2013, I adapted the "Simplecart-JS":https://github.com/wojodesign/simplecart-js library to make a quotation cart for the site. It works completely in the front end, using local-storage and cookies to manage the “session”, and sends a predefined quotation for the sales team to fill and return to the customer.
 
 <hr>
 
@@ -111,7 +112,7 @@ h4(the-year). (2012)
 
 "driver.cl":http://www.driver.cl/
 
-I conceived and completely developed the **WDIT Andoid app**. It was developed with Sencha Touch 2 and Cordova as a proof of concept. 
+I conceived and completely developed the **WDIT Android app**. It was developed with Sencha Touch 2 and Cordova as a proof of concept. 
 
 The application allows users to select the activities assigned to them and check every task or sub step which can be also verified by a picture that gets uploaded to the server when connection is available.
 
@@ -121,7 +122,7 @@ You can view some wireframes.
 
 The app has an admin back-end to generate and control activities, tasks, users and permissions.
 
-I developed also a whole suite of web software. From a Wordpress site, an internal document publishing web app. To a custom android app.
+I developed also a whole suite of web software. From a WordPress site, an internal document publishing web app. To a custom android app.
 
 Some of this process I documented in "my blog":http://code.medula.cl/.
 
@@ -133,11 +134,25 @@ h4(the-year). (2011)
 
 "vik.cl":http://www.vik.cl/ & "store.vik.cl":http://store.vik.cl/
 
-Complete rebuild of a Flash Site retaining most of the look and layout, but coding with mobile-first responsive site. Including an adaptive images script which uses Javascript and PHP to load the adequate size images. The site tas tested to work from IE7 to Blackberry 5, including common Android and iOS devices and browsers.
+Complete rebuild of a Flash Site retaining most of the look and layout, but coding with mobile-first responsive site. Including an adaptive images script which uses Javascript and PHP to load the adequate size images. The site was tested to work from IE7 to Blackberry 5, including common Android and iOS devices and browsers.
 
 <hr>
 
-h3(break-page-before). Nescappuccino Game (Nestle) 
+h3(break-page-before). e-Traders: courier e-commerce 
+
+h4(the-year). (2011)
+
+"etraders.cl":http://etraders.cl/
+
+From the begining of the project, i took the client's idea and layed out the whole e-commerce structure ("diagram here":https://docs.google.com/drawings/d/1CJp-c8WCeA0fGgvfVvVGp-lBEA8GQQQbUlQ1w8Vn3Kw/edit?usp=sharing) 
+
+Defined the hierarchy of the site's goals and content with the client, then developed the content and interactions of each screen along with the designer and content manager.
+
+Coded the full front-end of the site (HTML/CSS/JS).
+
+<hr>
+
+h3. Nescappuccino Game (Nestle) 
 
 h4(the-year). (2011)
 
@@ -155,6 +170,30 @@ You can visit and play some stages below (only the zodiac is playable).
 
 <hr>
 
+h3(break-page-before). Aramark Chile Services mobile web-app: __in Beta__
+
+h4(the-year). (2013)
+
+"Aramark services":http://medula.cl/temp/am/
+
+The iPad version of an interactive presentation we did earlier this year for presenting Aramark's services for the mining industries at Expo Nor (mining exposition)
+
+I led the whole development, from project management to the illustration team. Also did the animation, some colouring and the coding.
+
+It's a website designed to fully work off-line as an app launched from the home screen, but also visible on mobile phones.
+
+<hr>
+
+h3. Other e-commerce
+
+I have done several more e-commerce and e-commerce-like sites, some of the ones that remain online are:
+
+* "Hot Tub Repair and Service LLC":http://htrsllc.com/
+* "http://catalinaamenabar.cl/appp/":http://catalinaamenabar.cl/appp/ This is a mobile sales app I did in a weekend for a pastry shop ("The website too":http://catalinaamenabar.cl/).
+* Right now we are building an e-commerce for a Video games shop, you can take a peek at: "http://good-game.cl/dev/":http://good-game.cl/dev/ (work in progress)
+
+<hr>
+
 h3. Older stuff
 
 There's older stuff, but it's mostly Flash / ActionScript, even though there's some cool things, like a "realtime rendering 3D experimental site":http://medula.cl/as-p/main.php (must click PORTAFOLIO -> 2010).
@@ -165,26 +204,26 @@ h3. May 2005 – April 2006: VOXEL MULTIMEDIA
 
 Client services agency dedicated to 3 areas:
 
-* Graphic Design, inteactive design and web development. 
+* Graphic Design, interactive design and web development. 
 * Audiovisual production and post-production.
 * 3D modeling, animation and rendering.
 
 **Charge:**  Designer / Web Designer.
 
-h4. Responsabilities:
+h4. Responsibilities:
 
 * Design and development of multimedia interactive software (Flash and Director).
 * Design and development of websites.
 
 <hr>
 
-h3. May 2006 – April 2013: VOXEL DISEÑO / MEDULA DISEÑO
+h3. May 2006 – April 2013: VOXEL → MEDULA DISEÑO
 
-Client services agency dedicated to Graphic Design, inteactive design and web development. Branch of Voxel Multimedia. On April of 2009 one partner sold his part to my wife and me and we became *Médula Diseño* where my wife Violeta Sánchez E. does most of the design job and I the development.
+Client services agency dedicated to Graphic Design, interactive design and web development. Branch of Voxel Multimedia. On April of 2009 one partner sold his part to my wife and me and we became *Médula Diseño* where my wife Violeta Sánchez E. does most of the design job and I the development.
 
 **Charge:** Partner and Senior Developer.
 
-h4. Responsabilities: 
+h4. Responsibilities: 
 
 * Project management.
 * Design and development of websites.
@@ -199,7 +238,7 @@ Some work fine and I use everyday, some are work in progress; all could use some
 * **"Draggable elements bookmarklet":https://github.com/baamenabar/draggable-bookmarklet** jQuery and jQuery UI bookmarklet to easily make any element draggable with relative, absolute or fixed positioning.
 * **"Liquen-php":https://github.com/baamenabar/Liquen-php** PHP image manipulation class (resize, crop and caching) "Demo":http://g.m0.cl/liquen-php/
 * **"PNG with PHP":https://github.com/baamenabar/simplePNGwPHP** GET a simple PNG entering width, height and RGBA values.
-* **"Medula codeBlog / SLyP":https://github.com/baamenabar/codeBlog** My attempt to build a satic blog generator after only hearing about Jekyll. Still remains as my code blog.
+* **"Medula codeBlog / SLyP":https://github.com/baamenabar/codeBlog** My attempt to build a static blog generator after only hearing about Jekyll. Still remains as my code blog.
 * **"Musicador":https://github.com/baamenabar/Musicador** Music player designed for creating, managing and migrating _roleplaying_ music (mp3 files).
 
 h2. Education
@@ -225,7 +264,7 @@ h2(break-page-before). Personal information
 * **Birth date:** March 14, 1981
 * **Address:** <br> Camino agua del Carrizal 9570, Lo barnechea <br>Santiago, Chile
 * **email:** baamenabar@gmail.com
-* **Telepone:** +562 2918 0224
+* **Telephone:** +562 2918 0224
 * **Nationality:** Chilean
 * **Marital status:** Married ♥
 
