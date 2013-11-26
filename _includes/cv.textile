@@ -132,7 +132,7 @@ h3. VIK Winery e-commerce & promotional site
 
 h4(the-year). (2011)
 
-"vik.cl":http://www.vik.cl/ & "store.vik.cl":http://store.vik.cl/
+"vik.cl":http://www.vik.cl/ & "secure.vik.cl":http://secure.vik.cl/
 
 Complete rebuild of a Flash Site retaining most of the look and layout, but coding with mobile-first responsive site. Including an adaptive images script which uses Javascript and PHP to load the adequate size images. The site was tested to work from IE7 to Blackberry 5, including common Android and iOS devices and browsers.
 
