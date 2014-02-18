@@ -1,7 +1,7 @@
 ﻿
 ## Agustín Amenábar L.
 
-web developer
+UX designer / web developer
 
 full name: Bernardo Agustín Amenábar Larraín
 
