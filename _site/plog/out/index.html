@@ -1,0 +1,84 @@
+<!doctype html>
+<!--[if lt IE 8 ]>    <html class="ie ie7 no-js" lang="es"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="es"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="es"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="es"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>Bienvenido a mi Plog | El Plog de ImINaBAR</title>
+	<meta name="generator" content="DocPad v6.60.4" />
+	<style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="/styles/styles.css" />
+</head>
+<body>
+<img src="/imgs/iminabar-logo-and-slogan-hd.png" alt="Logo ImINaBAR" class="logo-principal">
+<nav class="general">
+	<ul>
+		
+		<li class="">
+			<a href="/about.html">
+			Quien Soy
+			</a>
+		</li>
+		
+		<li class="activo">
+			<a href="/index.html">
+			Home
+			</a>
+		</li>
+		
+	</ul>
+</nav>
+<h1>Bienvenido a mi Plog</h1>
+<p>Este es mi Log Personal o PLog</p>
+<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script defer="defer"  src="/vendor/jquery.js"></script><script defer="defer"  src="/js/scripts.js"></script>
+</body>
+</html>
