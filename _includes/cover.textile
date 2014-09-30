@@ -1,0 +1,50 @@
+30 September 2014
+
+
+Dear Disqus Team
+
+UI Engineer position.
+
+Today, when reviewing the new “Update to Disqus Privacy Policy”, out of curiosity I checked the jobs you have listed and the UI Engineer caught my eye. As I read the description I got the impression that it summed up the parts that I most like about my job, and would love to do it for years, specially in a growing company that has to keep up to date. 
+
+So I've spent the rest of the day updating a bit my stagnant CV.
+
+I strongly believe that I can bring a set of skills, creativity, enthusiasm, commitment and experience to your team. I am Designer by academic training and a self taught developer. I have 10 years of working experience in a variety of front-end languages and technologies, particularly good at HTML/CSS and JavaScript.
+
+I am a self driven professional who has been at the service of multiple clients for the last eight years, some for several years. I deeply enjoy complex problems and even more as part of a team with whom to work on them. I am keen on understanding deeply each technology I have to work with.
+
+You may find much more details about me and examples of my work on my on-line CV at http://iminabar.com (That's how my last name is pronounced).
+
+I would love to be part of a company that has consistently been deploying a solid, creative and beautiful service for the web. Setting the example and the benchmark for the world's commenting systems. I use Disqus on my blog and would never go back.
+
+Thank you for your time and specially for the fantastic software you build.
+
+Hoping to hear from you
+
+Best regards
+
+B. Agustín Amenábar L.
+Camino Agua del Carrizal 9570, Lo Barnechea
+Santiago, Chile
+
+------------------------
+
+
+h3. Nescappuccino Game (Nestle) 
+
+h4(the-year). (2011)
+
+Assembled and directed a team to develop a Game for the sales forces of Nestlé Pro, in Chile. Wrote the script, design, art direction, project direction and lead development of the game, also some illustration.
+
+Here I learned the immense amount of work involved in game development, and learned about many runtime optimization techniques and testing techniques.
+
+You can visit and play some stages below (only the zodiac is playable).
+* "Stage Nº2":http://medula.cl/temp/nescappuccino.cl/et2/
+* "Stage Nº3":http://medula.cl/temp/nescappuccino.cl/et3/
+* "Stage Nº4":http://medula.cl/temp/nescappuccino.cl/et4/
+* "Stage Nº5":http://medula.cl/temp/nescappuccino.cl/et5/
+* "Stage Nº6":http://medula.cl/temp/nescappuccino.cl/et6/
+* "Home illustration":http://medula.cl/temp/nescappuccino.cl/
+
+
+<hr>

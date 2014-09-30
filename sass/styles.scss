@@ -77,9 +77,35 @@ figure{
 	float: left;
 	margin-right: 1em;
 }
-article {
+.corporis{
+	border-top: 1px solid $cyanMedula;
+}
+nav{
+	li{
+		float:right;
+	}
+	a{
+		display: inline-block;
+		background: $cyanMedula;
+		padding: 0.5em 1em;
+		font-weight: bold;
+		@include single-transition(background-color, 0.75s, ease-out);
+		&:link, &:visited{
+			color: #fff;
+			text-decoration: none;
+			background-color: $cyanMedula;
+		}
+		&:hover, &:active, &:focus{
+			text-decoration: underline;
+			background-color: #6EE7FE;
+		}
+	}
+}
+nav, article{
 	max-width:660px;
 	margin:0 auto;
+}
+article {
 	header {
 		h1{ color:$cyanMedula; }
 		border-bottom:1px solid #B3B3B3;
