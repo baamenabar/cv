@@ -1,2 +1,4 @@
 
 encoding: UTF-8
+
+exclude: [plog, sass, config.rb, desktop.ini, assets, .sass-cache]
