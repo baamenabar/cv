@@ -92,7 +92,7 @@ The repo can be found at: "https://github.com/baamenabar/vas"
 
 <hr>
 
-h3(break-page-before). Paz Vial: e-commerce 
+h3. Paz Vial: e-commerce 
 
 h4(the-year). (2010 - 2014)
 
@@ -132,7 +132,7 @@ It's a website developed to fully work off-line as an app launched from the home
 
 <hr>
 
-h3(break-page-before). Driver: mobile app + WordPress 
+h3. Driver: mobile app + WordPress 
 
 h4(the-year). (2012)
 
@@ -163,25 +163,6 @@ h4(the-year). (2012 - 2013)
 My earliest client, since our first conversation 10 years ago, he has had creative ideas about his site, together we have built many tools his clients love.
 
 This latest version is a full responsive, mobile first website. Custom JavaScript throughout the site. Drupal private site for the clients' events, with a playlist generator. (ask me for access to a demo account)
-
-<hr>
-
-h3. Nescappuccino Game (Nestle) 
-
-h4(the-year). (2011)
-
-Assembled and directed a team to develop a Game for the sales forces of Nestlé Pro, in Chile. Wrote the script, design, art direction, project direction and lead development of the game, also some illustration.
-
-Here I learned the immense amount of work involved in game development, and learned about many runtime optimization techniques and testing techniques.
-
-You can visit and play some stages below (only the zodiac is playable).
-* "Stage Nº2":http://medula.cl/temp/nescappuccino.cl/et2/
-* "Stage Nº3":http://medula.cl/temp/nescappuccino.cl/et3/
-* "Stage Nº4":http://medula.cl/temp/nescappuccino.cl/et4/
-* "Stage Nº5":http://medula.cl/temp/nescappuccino.cl/et5/
-* "Stage Nº6":http://medula.cl/temp/nescappuccino.cl/et6/
-* "Home illustration":http://medula.cl/temp/nescappuccino.cl/
-
 
 <hr>
 
@@ -270,7 +251,7 @@ h2(break-page-before). Personal information
 
 <h2 id="endless-links">Me elsewhere</h2>
 
-* "Github":"https://github.com/baamenabar"
+* "Github":https://github.com/baamenabar
 * "Code Blog":http://code.medula.cl
 * "Twitter":https://twitter.com/ImINaBAR (en)
 * "Twitter":https://twitter.com/baamenabar (es)
@@ -280,6 +261,7 @@ h2(break-page-before). Personal information
 * "Project Noah":http://www.projectnoah.org/users/Agust%C3%ADn%20Amenabar
 * "FB":https://www.facebook.com/agustin.amenabar
 * "The Noun Project":http://thenounproject.com/agustin.amenabar/
+* "Médula Diseño":http://medula.cl (My company's portfolio)
 
 h2. Colophon
 
