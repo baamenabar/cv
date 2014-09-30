@@ -1,2 +1,6 @@
 /.sass-cache
 /_rubystuff
+/assets
+/plog
+_site/assets
+_site/plog
