@@ -40,12 +40,12 @@ h3. Frameworks / CMSs
 
 Listed here, in order of preference, is only what I'm fluent in and what I like working with. I have working knowledge of many more.
 
-* AngularJS (6 months)
-* Ionic (6 months)
+* AngularJS (< 1 year)
+* Ionic (< 1 year)
 * jQuery (5 years)
-* NodeJS (6 months)
-* Perch (3 months)
+* NodeJS (< 1 year)
 * Drupal (2 year)
+* Perch (3 months)
 * Sencha Touch 2 (MVC JavaScript) (3 years)
 * WordPress (5 years)
 * Code Igniter (2 years)
@@ -56,13 +56,13 @@ h4. My Toys
 
 * Sublime Text
 * Google Chrome Developer Tools ♥
-* Gulp
+* Gulp (SASS, Compass, Autoprefixer, Lo-Dash)
 * Git / Github
 * Command line / console
 * Cacoo / Google Drawing
 * Pen and paper (colors too)
 * NodeJS (tooling)
-* SASS/Compass
+* Screencast-O-Matic
 * Adobe Photoshop
 * Adobe Illustrator
 * Charles web debugging proxy
@@ -88,7 +88,21 @@ I applied the project for seed funding, but on september 2014 got rejected for n
 
 <small>Note: the huilmo.org website was hacked together from a lousy template in one night, not my code.</small>
 
-The repo can be found at: "https://github.com/baamenabar/vas"
+The repo can be found at: "https://github.com/baamenabar/vas":https://github.com/baamenabar/vas
+
+<hr>
+
+h3. DMJ Analytics
+
+h4(the-year). (2014)
+
+"dmjanalytics.com":http://dmjanalytics.com/
+
+A deep exploration of authoring and managing SVG assets with modern tools like Gulp.
+
+The SVG animation and CSS animations of SVG where also hand coded.
+
+The site is small and optimized for mobile, responsibly responsive, mobile first.
 
 <hr>
 
@@ -106,7 +120,7 @@ In 2014's iterations attention was put on building a mobile-first responsive red
 
 <hr>
 
-h3. VIK Winery e-commerce & promotional site 
+h3(break-page-before). VIK Winery e-commerce & promotional site 
 
 h4(the-year). (2010 - 2014)
 
@@ -118,7 +132,7 @@ h4(the-year). (2010 - 2014)
 
 <hr>
 
-h3(break-page-before). Aramark Chile Services offline mobile web-app
+h3. Aramark Chile Services offline mobile web-app
 
 h4(the-year). (2013)
 
@@ -126,7 +140,7 @@ h4(the-year). (2013)
 
 The iPad version of an interactive presentation we did earlier that year for presenting Aramark's services for the mining industries at Expo Nor (mining exposition).
 
-Personally led the whole development, from project management to the illustration team. Did the animation, some colouring and the coding.
+Lead the team of 6 who developed the web app on short notice, from project management to the illustration team. Did the animation, some colouring and the coding.
 
 It's a website developed to fully work off-line as an app launched from the home screen, aimed at the iPad, but also works perfectly on mobile phones.
 
@@ -261,6 +275,7 @@ h2(break-page-before). Personal information
 * "Project Noah":http://www.projectnoah.org/users/Agust%C3%ADn%20Amenabar
 * "FB":https://www.facebook.com/agustin.amenabar
 * "The Noun Project":http://thenounproject.com/agustin.amenabar/
+* "Panoramio":http://www.panoramio.com/user/4417812
 * "Médula Diseño":http://medula.cl (My company's portfolio)
 
 h2. Colophon
@@ -269,6 +284,5 @@ h2. Colophon
 
 This HTML CV has also been designed to be printed or saved as a PDF with the proper page-breaks. It will maintain most of it's layout. If your are reading this on a PDF you can visit the original (and maybe updated) CV on "iminabar.com":http://iminabar.com/ 
 
-Thanks for reading so far
-
+Thanks for reading so far  
 Agustín
