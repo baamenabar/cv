@@ -14,7 +14,7 @@ Graphic Designer by profession, web developer by choice, self employed most of m
 
 Mediating between clients, designers and their users, facilitating their interaction and goals through web technologies. Working on the web mostly passionately as a front-end developer, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, especially when time is scarce.
 
-Giving wings to designers' creativity, providing them with options and ideas has been my work for more than 8 years. Doing responsive design before the term was even coined (since the era of full Flash sites). A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Expert in developing that perfectly fits the needs of each project.
+Giving wings to designers' creativity, providing them with options and ideas has been my work for more than 8 years. Doing responsive design before the term was even coined (since the era of full Flash sites). A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Particularly re-enchanted by Javascript in the recent years.
 
 Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side optimization, a wide view of problems usually lets me find solutions where they are most effective.
 
@@ -23,10 +23,10 @@ h2(break-page-before). Skills, Languages and Tools
 h3. In order of relevance
 
 * HTML / CSS – (6 years) + Progressive enhancement, mobile first, responsible responsive web design.
-* User experience / UI design. (7 years)
 * JavaScript (6 years)
-* HTML semantic markup (@<i>@ isn't for _icon_). (6 years)
 * AJAX, JSON & RESTful APIs (3 years)
+* User experience / UI design. (7 years)
+* HTML semantic markup (@<i>@ isn't for _icon_). (6 years)
 * Project management and Client relations. (8 years)
 * Animation skills
 * Illustration skills
