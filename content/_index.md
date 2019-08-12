@@ -1,26 +1,21 @@
 ---
-title: 'Agustín Amenabar L. : CV – Résumé'
+title: 'Agustín Amenábar L. : CV – Résumé'
 viewport: 'width=device-width'
-...
+something: 'woohooo'
+---
 
-<div class="site corporis">
+front-end developer / designer
 
-CV – Résumé
-===========
+<img src="imgs/iminabar-logo-and-slogan.svg" id="logo" title="ImINaBAR is how my last name is pronounced (Amenabar)" alt="ImINaBAR is how my last name is pronounced (Amenabar)" data-svgfall="" data-fallback="imgs/iminabar-logo-and-slogan-hd.png">
 
-﻿front-end developer / designer
-
-![ImINaBAR is how my last name is pronounced (Amenabar)](imgs/iminabar-logo-and-slogan.svg "ImINaBAR is how my last name is pronounced (Amenabar)"){#logo}
-Agustín Amenábar L.
-===================
+# Agustín Amenábar L.
 
 full name: Bernardo Agustín Amenábar Larraín
 
-[ImINaBAR.com](http://iminabar.com "CV") – [GitHub](https://github.com/baamenabar) –
+[ImINaBAR.com](http://iminabar.com 'CV') – [GitHub](https://github.com/baamenabar) –
 [Code Blog](http://code.medula.cl) – [More links at the bottom](#endless-links)
 
-Summary
--------
+## Summary
 
 Graphic Designer by profession, web developer by choice, self employed a big part of my career.
 
@@ -39,8 +34,7 @@ re-enchanted by Javascript in the recent years.
 Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side
 optimization, a wide view of problems usually lets me find solutions where they are most effective.
 
-Skills, Languages and Tools
----------------------------
+## Skills, Languages and Tools
 
 ### In order of relevance
 
@@ -51,7 +45,7 @@ Skills, Languages and Tools
 -   Frontend Performance
 -   NodeJS, tooling and server-side (&gt; 4years)
 -   User experience / UI design. (9 years)
--   <span class="caps">HTML</span> semantic markup (`<i>` isn’t for *icon*). (8 years)
+-   <span class="caps">HTML</span> semantic markup (`<i>` isn’t for _icon_). (8 years)
 -   <span class="caps">PHP</span> : Several styles of coding and frameworks. (10 years)
 -   MySQL, SQLite(8 years)
 -   Docker / CI+CD (3 years)
@@ -100,8 +94,7 @@ working knowledge of many more.
 -   Adobe Illustrator
 -   Some other obscure tools
 
-Dearest projects
-----------------
+## Dearest projects
 
 All of the work in [medula.cl](http://medula.cl) has been done under my lead; most, directly by me. I
 have created several long relationships with customers and organizations which enable constant iteration of
@@ -121,7 +114,7 @@ microservice that generates images ready to be used in responsive projects.
 
 I wrote the resizing and cropping algorithms, most of the documentation and the nginx config.
 
-------------------------------------------------------------------------
+---
 
 ### Westwing Redesign
 
@@ -136,9 +129,9 @@ Recently coded most of the redesign and refactor of the whole product grid in it
 Monitoring and pushing the frontend performance of the Westwing website, looking to get the highest impact with
 the lowest effort possible.
 
-------------------------------------------------------------------------
+---
 
-### *La Guía Silvestre* / The Sylvan Guide : biodiversity and wild areas app.
+### _La Guía Silvestre_ / The Sylvan Guide : biodiversity and wild areas app.
 
 #### (2014) {#section-2 .the-year}
 
@@ -157,7 +150,7 @@ Note: the huilmo.org website was hacked together from a lousy template in one ni
 
 The repo can be found at: <https://github.com/baamenabar/vas>
 
-------------------------------------------------------------------------
+---
 
 ### <span class="caps">DMJ</span> Analytics
 
@@ -172,7 +165,7 @@ where also hand coded.
 
 The site is small and optimized for mobile, responsibly responsive, mobile first.
 
-------------------------------------------------------------------------
+---
 
 ### Paz Vial: e-commerce
 
@@ -192,7 +185,7 @@ it deeply informed the design process ad helped a lot with the rebuild [estilos.
 In 2012 coded the full front and back-end, integrating a modified version of my **[jQuery
 File Upload and Crop](https://github.com/baamenabar/jQuery-File-Upload-and-Crop)** project.
 
-------------------------------------------------------------------------
+---
 
 ### <span class="caps">VIK</span> Winery e-commerce & promotional site
 
@@ -208,7 +201,7 @@ coding with mobile-first responsive site. Including an adaptive images script wh
 to load the adequate size images. The site was tested to work from IE7 to Blackberry 5, including common Android
 and iOS devices and browsers.
 
-------------------------------------------------------------------------
+---
 
 ### Aramark Chile Services offline mobile web-app
 
@@ -225,7 +218,7 @@ Did the animation, some colouring and the coding.
 It’s a website developed to fully work off-line as an app launched from the home screen, aimed at the iPad,
 but also works perfectly on mobile phones.
 
-------------------------------------------------------------------------
+---
 
 ### Driver: mobile app + WordPress
 
@@ -254,7 +247,7 @@ a custom android app.
 
 Some of this process I documented in [my blog](http://code.medula.cl/).
 
-------------------------------------------------------------------------
+---
 
 ### JZMusic: event production + clients accounts
 
@@ -268,7 +261,7 @@ we have built many tools his clients love.
 This latest version is a full responsive, mobile first website. Custom JavaScript throughout the site. Drupal
 private site for the clients’ events, with a playlist generator. (ask me for access to a demo account)
 
-------------------------------------------------------------------------
+---
 
 ### Other e-commerce
 
@@ -279,10 +272,9 @@ I have done several more e-commerce and e-commerce-like sites, some of the ones 
     did in a weekend for a pastry shop ([The website too](http://catalinaamenabar.cl/)).
 -   e-commerce for a now closed Video games shop: <http://goodgame.cl/> (archive)
 
-------------------------------------------------------------------------
+---
 
-Work Experience {#work-experience .break-page-before}
----------------
+## Work Experience {#work-experience .break-page-before}
 
 ### Feb 2018 – Today: EQS Group
 
@@ -297,7 +289,7 @@ Compliance. Mainly for publicly trated companies.
 -   Recruiting assistance, creating tests and taking interviews.
 -   Onboarding for Frontend developers
 
-------------------------------------------------------------------------
+---
 
 ### Dec 2014 – Feb 2018: Westwing Home and Living
 
@@ -316,7 +308,7 @@ responsible for the content heavy side of the website.
 -   Recruiting assistance, creating tests and taking interviews.
 -   Leading driver of frontend performance.
 
-------------------------------------------------------------------------
+---
 
 ### May 2006 – Nov 2014: <span class="caps">VOXEL</span> → <span class="caps">MEDULA</span> DISEÑO
 
@@ -333,7 +325,7 @@ where my wife Violeta Sánchez E. does most of the design job and I the developm
 -   Design and development of custom web software.
 -   Design and development of multimedia interactive software (Flash and Director).
 
-------------------------------------------------------------------------
+---
 
 ### May 2005 – April 2006: <span class="caps">VOXEL</span> <span class="caps">MULTIMEDIA</span>
 
@@ -350,8 +342,7 @@ Client services agency dedicated to 3 areas:
 -   Design and development of multimedia interactive software (Flash and Director).
 -   Design and development of websites.
 
-Personal projects {#personal-projects .break-page-before}
------------------
+## Personal projects {#personal-projects .break-page-before}
 
 Some work fine and I use everyday, some are work in progress; all could use some more work.
 
@@ -373,10 +364,9 @@ Some work fine and I use everyday, some are work in progress; all could use some
 -   **[Medula codeBlog / SLyP](https://github.com/baamenabar/codeBlog)** My attempt to build a static
     blog generator after only hearing about Jekyll. Still remains as my code blog.
 -   **[Musicador](https://github.com/baamenabar/Musicador)** Music player designed for
-    non-destructive cropping of songs to create, manage and migrate music for *roleplaying* sessions (mp3 files).
+    non-destructive cropping of songs to create, manage and migrate music for _roleplaying_ sessions (mp3 files).
 
-Education
----------
+## Education
 
 ### School
 
@@ -389,15 +379,13 @@ Universidad Finis Terrae (1999 – 2005)
 
 Bachelor’s degree in Graphic Design.
 
-Languages
----------
+## Languages
 
 Bilingual in English and Spanish.
 
 German basic level (A 2.1)
 
-Personal information {#personal-information .break-page-before}
---------------------
+## Personal information {#personal-information .break-page-before}
 
 -   **Full name:** Bernardo Agustín Amenábar Larraín
 -   **Birth date:** March 14, 1981
@@ -407,8 +395,7 @@ Personal information {#personal-information .break-page-before}
 -   **Nationality:** Chilean
 -   **Marital status:** Married ♥
 
-Me elsewhere {#endless-links}
-------------
+## Me elsewhere {#endless-links}
 
 -   [Github](https://github.com/baamenabar)
 -   [Code Blog](http://code.medula.cl)
@@ -422,18 +409,3 @@ Me elsewhere {#endless-links}
 -   [The Noun Project](http://thenounproject.com/agustin.amenabar/)
 -   [Panoramio](http://www.panoramio.com/user/4417812)
 -   [Médula Diseño](http://medula.cl) (My company’s portfolio)
-
-Colophon
---------
-
-[This site has it’s own repository on Github](https://github.com/baamenabar/cv), built using
-Jekyll written with [Textile markup](http://txstyle.org/).
-
-This <span class="caps">HTML</span> CV has also been designed to be printed or saved as a <span class="caps">PDF</span>
-with the proper page-breaks. It will maintain most of it’s layout. If your are reading this on a <span class="caps">PDF</span>
-you can visit the original (and maybe updated) CV on [iminabar.com](http://iminabar.com/)
-
-Thanks for reading so far\
-Agustín
-
-</div>

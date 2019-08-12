@@ -3,11 +3,12 @@
 	{{ partial "header.html" . }}
 
 	<body>
-		<div class="container wrapper">
+		<div class="site corporis">
+			<main>
 			{{ partial "head.html" . }}
-			{{ partial "introduction.html" . }}
-			{{ partial "projects.html" . }}
-			{{ partial "publications.html" . }}
+			<h1>{{ .Params.something }}</h1>
+			{{ .Content }}
+			</main>
 		</div>
 		</div>
 		{{ partial "footer.html" . }}

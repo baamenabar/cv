@@ -1,5 +1,10 @@
 baseURL: http://iminabar.com/
 disablePathToLower: true
 languageCode: en-us
-title: Bernardo Agustín Amenábar Larraín - CV
+title: Agustín Amenábar L. | CV – Résumé
 theme: avicenna
+assetDir: 'resources/assets'
+
+params:
+    home:
+        title: 'CV – Résumé'

@@ -1,0 +1,205 @@
+$azulHover: #06e;
+$amarilloMedula: #fac116;
+$amarilloMedulaFondo: #fcc212;
+$cyanMedula: #45bcd2;
+$grisClaro0: #f0f0f0;
+$grisClaro1: #e6e6e6;
+$font-serif: Constantia, 'Lucida Bright', Lucidabright, 'Lucida Serif', Lucida,
+    'DejaVu Serif', 'Bitstream Vera Serif', 'Liberation Serif', Georgia, serif;
+$font-sans: Frutiger, 'Helvetica Neue', Helvetica, Arial, sans-serif,
+    'Frutiger Linotype', Univers, Calibri, 'Gill Sans', 'Gill Sans MT',
+    'Myriad Pro', Myriad, 'DejaVu Sans Condensed', 'Liberation Sans',
+    'Nimbus Sans L', Tahoma, Geneva;
+
+//"museo-sans", "PT Sans", "ubuntu-mono", "pt-serif"
+
+@import 'normalize';
+
+body {
+    font-size: 16px;
+    line-height: 26px;
+    font-family: $font-sans;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 5%;
+}
+
+i {
+    font-family: serif;
+    font-style: italic;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'museo-sans', $font-serif;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 2em;
+    color: #565656;
+    line-height: 1em;
+}
+h2,
+h3 {
+    font-style: normal;
+    font-size: 1.725em;
+}
+h3 {
+    font-size: 1.5em;
+}
+.the-year {
+    margin-top: -1.5em;
+}
+kbd {
+    background-color: #333;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 1px 3px 0 rgba(0, 0, 0, 1);
+    color: #ddd;
+    display: inline-block;
+    margin: 0 0.1em;
+    padding: 0.1em 0.6em;
+    text-shadow: 0 -1px 0 #000;
+}
+samp {
+    background-color: $grisClaro1;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 1px 3px 0 1px rgba(0, 0, 0, 0.3);
+    color: #333;
+    display: inline-block;
+    margin: 0 0.1em;
+    padding: 0.1em 0.6em;
+    text-shadow: 0 -1px 0 #fff;
+}
+figure {
+    pre {
+        word-break: normal;
+        -webkit-hyphens: none;
+        -moz-hyphens: none;
+        -ms-hyphens: none;
+        hyphens: none;
+        overflow: auto;
+        overflow-y: hidden;
+        white-space: pre;
+    }
+}
+#logo {
+    width: 104px;
+    position: static;
+    float: left;
+    margin-right: 1em;
+}
+.corporis {
+    border-top: 1px solid $cyanMedula;
+}
+nav {
+    li {
+        float: right;
+    }
+    a {
+        display: inline-block;
+        background: $cyanMedula;
+        padding: 0.5em 1em;
+        font-weight: bold;
+        transition: background-color 0.75s ease-out;
+        &:link,
+        &:visited {
+            color: #fff;
+            text-decoration: none;
+            background-color: $cyanMedula;
+        }
+        &:hover,
+        &:active,
+        &:focus {
+            text-decoration: underline;
+            background-color: #6ee7fe;
+        }
+    }
+}
+
+nav,
+main,
+footer {
+    max-width: 660px;
+    margin: 0 auto;
+}
+main {
+    header {
+        h1 {
+            color: $cyanMedula;
+        }
+        border-bottom: 1px solid #b3b3b3;
+        h2,
+        h3 {
+            color: $cyanMedula;
+            font-size: 20px;
+            margin: 0;
+        }
+        h3 {
+            font-style: italic;
+        }
+    }
+    a {
+        text-decoration: none;
+        border-bottom: 1px solid #ddd;
+        &:link,
+        &:visited {
+            border-bottom-color: #ddd;
+        }
+        &:hover,
+        &:active,
+        &:focus {
+            border-bottom-color: $azulHover;
+        }
+        &.boton {
+            &:link,
+            &:visited {
+                border-bottom-color: #666;
+            }
+            &:hover,
+            &:active,
+            &:focus {
+                border-bottom-color: $azulHover;
+            }
+        }
+    }
+    figure {
+        font-family: $font-serif;
+        background: #fff;
+        padding: 1em;
+        border: 1px solid #ccc;
+        margin: 0 -1em 1em -1em;
+        .boxshadow & {
+            border: none;
+            box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.3);
+        }
+        img {
+            max-width: 100%;
+            border: 1px dotted #ddd;
+        }
+    }
+    img {
+        max-width: 100%;
+    }
+    footer {
+        background: none;
+        border: 1px solid transparent;
+        padding: 0;
+    }
+}
+.footer {
+    border-bottom: 40px solid $grisClaro0;
+}
+@media (min-width: 923px) {
+    #logo {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+    }
+}
+@media print {
+    @import 'print';
+}

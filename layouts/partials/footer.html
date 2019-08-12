@@ -1,0 +1,17 @@
+<footer class="footer">
+		<nav class="nav social">
+				<ul class="flat">
+					{{- range $index, $key := .Site.Params.Social -}}
+					<a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+					{{- end -}}
+				</ul>
+			</nav>
+			<!-- prettier-ignore -->
+   {{ with .GetPage "/layouts/partials/footer" }}{{ .Content }}{{ end }}
+</div>
+
+{{- with .Site.Params.Social -}}
+<script>
+    feather.replace();
+</script>
+{{- end -}}
