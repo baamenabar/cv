@@ -1,20 +1,21 @@
 ---
 title: 'Agustín Amenábar L. : CV – Résumé'
-viewport: 'width=device-width'
-something: 'woohooo'
 ---
 
 front-end developer / designer
 
-<img src="imgs/iminabar-logo-and-slogan.svg" id="logo" title="ImINaBAR is how my last name is pronounced (Amenabar)" alt="ImINaBAR is how my last name is pronounced (Amenabar)" data-svgfall="" data-fallback="imgs/iminabar-logo-and-slogan-hd.png">
+<img src="imgs/iminabar-logo-and-slogan.svg" class="logo" title="ImINaBAR is how my last name is pronounced (Amenabar)" alt="Logo: I'm in a bar, is how my last name is pronounced (Amenabar)">
 
 # Agustín Amenábar L.
 
 full name: Bernardo Agustín Amenábar Larraín
 
-[ImINaBAR.com](http://iminabar.com 'CV') – [GitHub](https://github.com/baamenabar) –
-[Code Blog](http://code.medula.cl) – [More links at the bottom](#endless-links)
+  <div class="nav-print">
 
+[ImINaBAR.com](http://iminabar.com 'CV') – [GitHub](https://github.com/baamenabar) –
+[Code Blog](http://code.medula.cl) <span class="no-print">– [More links at the bottom](#endless-links)</span>
+
+  </div>
 ## Summary
 
 Graphic Designer by profession, web developer by choice, self employed a big part of my career.
@@ -34,34 +35,36 @@ re-enchanted by Javascript in the recent years.
 Doing the most varied client work since 2004, always elbow to elbow with designers. From UX to server–side
 optimization, a wide view of problems usually lets me find solutions where they are most effective.
 
+  <div class="section list">
+
 ## Skills, Languages and Tools
 
 ### In order of relevance
 
--   <span class="caps">HTML</span> / <span class="caps">CSS</span> – (8 years) + Progressive enhancement, mobile
+-   HTML / CSS – (8 years) + Progressive enhancement, mobile
     first, responsible responsive web design.
 -   JavaScript (8 years)
 -   Typescript (1 year)
 -   Frontend Performance
 -   NodeJS, tooling and server-side (&gt; 4years)
 -   User experience / UI design. (9 years)
--   <span class="caps">HTML</span> semantic markup (`<i>` isn’t for _icon_). (8 years)
--   <span class="caps">PHP</span> : Several styles of coding and frameworks. (10 years)
+-   HTML semantic markup (`<i>` isn’t for _icon_). (8 years)
+-   PHP : Several styles of coding and frameworks. (10 years)
 -   MySQL, SQLite(8 years)
 -   Docker / CI+CD (3 years)
 -   Project management and Client relations. (10 years)
 -   Animation skills
 -   Illustration skills
--   <span class="caps">SEO</span>
--   <span class="caps">LAMP</span> stack server management (managing web-hosting for many clients).
--   <span class="caps">OOP</span> ActionScript 3 (spent many years doing that, still good at it).
+-   SEO
+-   LAMP stack server management (managing web-hosting for many clients).
+-   OOP ActionScript 3 (spent many years doing that, still good at it).
 
-### Frameworks / CMSs {#frameworks-cmss .break-page-before}
+### Frameworks / CMSs {#frameworks-cmss}
 
 Listed here, in order of preference, is only what I’m fluent in and what I like working with. I have
 working knowledge of many more.
 
--   Pain Javascript (&gt; 6 years)
+-   Plain JavaScript (&gt; 6 years)
 -   Typescript (&gt; 1 year)
 -   NodeJS (&gt; 4 years)
 -   Angular (&gt; 1 year)
@@ -71,9 +74,11 @@ working knowledge of many more.
 -   jQuery (6 years)
 -   Backbone (&lt; 1 year)
 -   Drupal (2 year)
--   Sencha Touch 2 (<span class="caps">MVC</span> JavaScript) (3 years)
+-   Sencha Touch 2 (MVC JavaScript) (3 years)
 -   WordPress (6 years)
 -   Code Igniter (2 years)
+
+<div class="break-page-before"></div>
 
 ### Day to day Tools
 
@@ -84,7 +89,7 @@ working knowledge of many more.
 -   git
 -   Google Chrome Developer Tools ♥
 -   NodeJS (tooling)
--   Gulp / Grunt (<span class="caps">SASS</span>, Compass, Autoprefixer, Lo-Dash)
+-   Gulp / Grunt (SASS, Compass, Autoprefixer, Lo-Dash)
 -   Gitlab / Bitbucket / Github
 -   Vagrant
 -   Docker
@@ -93,6 +98,8 @@ working knowledge of many more.
 -   Adobe Photoshop
 -   Adobe Illustrator
 -   Some other obscure tools
+
+  </div>
 
 ## Dearest projects
 
@@ -152,15 +159,15 @@ The repo can be found at: <https://github.com/baamenabar/vas>
 
 ---
 
-### <span class="caps">DMJ</span> Analytics
+### DMJ Analytics
 
 #### (2014) {#section-3 .the-year}
 
 [dmjanalytics.com](http://dmjanalytics.com/)
 
-A deep exploration of authoring and managing <span class="caps">SVG</span> assets with modern tools like Gulp.
+A deep exploration of authoring and managing SVG assets with modern tools like Gulp.
 
-The <span class="caps">SVG</span> animation and <span class="caps">CSS</span> animations of <span class="caps">SVG</span>
+The SVG animation and CSS animations of SVG
 where also hand coded.
 
 The site is small and optimized for mobile, responsibly responsive, mobile first.
@@ -187,7 +194,7 @@ File Upload and Crop](https://github.com/baamenabar/jQuery-File-Upload-and-Crop)
 
 ---
 
-### <span class="caps">VIK</span> Winery e-commerce & promotional site
+### VIK Winery e-commerce & promotional site
 
 #### (2010 – 2014) {#section-5 .the-year}
 
@@ -197,7 +204,7 @@ File Upload and Crop](https://github.com/baamenabar/jQuery-File-Upload-and-Crop)
 functionality.
 
 2011 I did a complete rebuild of a Flash Site retaining most of the look and “responsive” layout, but
-coding with mobile-first responsive site. Including an adaptive images script which uses Javascript and <span class="caps">PHP</span>
+coding with mobile-first responsive site. Including an adaptive images script which uses Javascript and PHP
 to load the adequate size images. The site was tested to work from IE7 to Blackberry 5, including common Android
 and iOS devices and browsers.
 
@@ -226,19 +233,19 @@ but also works perfectly on mobile phones.
 
 [driver.cl](http://www.driver.cl/)
 
-I conceived and completely developed the **<span class="caps">WDIT</span> Android app**. It was developed with
+I conceived and completely developed the **WDIT Android app**. It was developed with
 Sencha Touch 2 and Cordova to be deployed as a proof of concept for improving security standards in a mine.
 
 The application allows users to select the activities assigned to them and check every task or sub step which can
-be also verified by a picture that gets uploaded through the local server to <span class="caps">AWS</span> for
+be also verified by a picture that gets uploaded through the local server to AWS for
 storage an late analysis.
 
 You can view some wireframes.
 
--   **admin panel wireframes** [<span class="caps">PDF</span>](/files/admin-web-dg.pdf) |
-    [<span class="caps">SVG</span> 1](/files/admin-p1.svg), [<span class="caps">SVG</span>
+-   **admin panel wireframes** [PDF](/files/admin-web-dg.pdf) |
+    [SVG 1](/files/admin-p1.svg), [SVG
     2](/files/admin-p2.svg)
--   **mobile app wireframes** [<span class="caps">PDF</span>](/files/mobile-dg.pdf) | [<span class="caps">SVG</span> 1](/files/mobile-app-p1.svg), [<span class="caps">SVG</span> 2](/files/mobile-app-p2.svg), [<span class="caps">SVG</span> 3](/files/mobile-app-p3.svg)
+-   **mobile app wireframes** [PDF](/files/mobile-dg.pdf) | [SVG 1](/files/mobile-app-p1.svg), [SVG 2](/files/mobile-app-p2.svg), [SVG 3](/files/mobile-app-p3.svg)
 
 The app has an admin back-end to generate and control activities, tasks, users and permissions.
 
@@ -267,26 +274,28 @@ private site for the clients’ events, with a playlist generator. (ask me for a
 
 I have done several more e-commerce and e-commerce-like sites, some of the ones that remain online are:
 
--   [Hot Tub Repair and Service <span class="caps">LLC</span>](http://htrsllc.com/)
+-   [Hot Tub Repair and Service LLC](http://htrsllc.com/)
 -   <http://catalinaamenabar.cl/appp/> This is a mobile sales app I
     did in a weekend for a pastry shop ([The website too](http://catalinaamenabar.cl/)).
 -   e-commerce for a now closed Video games shop: <http://goodgame.cl/> (archive)
 
 ---
 
-## Work Experience {#work-experience .break-page-before}
+<div class="break-page-before"></div>
+
+## Work Experience {#work-experience}
 
 ### Feb 2018 – Today: EQS Group
 
 Company dedicated to provide a software platform and services for Investor Relations, Communication and
-Compliance. Mainly for publicly trated companies.
+Compliance. Mainly for publicly traded companies.
 
 **Charge:** Senior Frontend Engineer
 
 #### Responsibilities:
 
 -   HTML, CSS, Typescript + Angular development.
--   Recruiting assistance, creating tests and taking interviews.
+-   Recruiting, creating tests and taking interviews.
 -   Onboarding for Frontend developers
 
 ---
@@ -310,7 +319,7 @@ responsible for the content heavy side of the website.
 
 ---
 
-### May 2006 – Nov 2014: <span class="caps">VOXEL</span> → <span class="caps">MEDULA</span> DISEÑO
+### May 2006 – Nov 2014: VOXEL → MEDULA DISEÑO
 
 Client services agency dedicated to Graphic Design, interactive design, web and software development. Branch of
 Voxel Multimedia. On April of 2009 one partner sold his part to my wife and me and we became **Médula Diseño**
@@ -327,7 +336,7 @@ where my wife Violeta Sánchez E. does most of the design job and I the developm
 
 ---
 
-### May 2005 – April 2006: <span class="caps">VOXEL</span> <span class="caps">MULTIMEDIA</span>
+### May 2005 – April 2006: VOXEL MULTIMEDIA
 
 Client services agency dedicated to 3 areas:
 
@@ -342,13 +351,13 @@ Client services agency dedicated to 3 areas:
 -   Design and development of multimedia interactive software (Flash and Director).
 -   Design and development of websites.
 
-## Personal projects {#personal-projects .break-page-before}
+## Personal projects {#personal-projects}
 
 Some work fine and I use everyday, some are work in progress; all could use some more work.
 
 -   **[The Sylvan Guide](https://github.com/baamenabar/vas)** Wild areas and biodiversity guide,
     built in AngularJS and Ionic. It’s a simple working demo, more info at [huilmo.org](http://huilmo.org)
--   **[SVGfall](https://github.com/baamenabar/svgfall)** <span class="caps">SVG</span> images with
+-   **[SVGfall](https://github.com/baamenabar/svgfall)** SVG images with
     reliable fast fallback to bitmap (now on version 2).
 -   **[Styleguide with GULP+CSS Boilerplate](https://github.com/MedulaDesign/guia-estilo)** A simple
     web Styleguide which works well as a CSS+HTML boilerplate.
@@ -357,10 +366,10 @@ Some work fine and I use everyday, some are work in progress; all could use some
     jQuery Uploader](https://github.com/blueimp/jQuery-File-Upload).
 -   **[Draggable elements bookmarklet](https://github.com/baamenabar/draggable-bookmarklet)** jQuery
     and jQuery UI bookmarklet to easily make any element draggable with relative, absolute or fixed positioning.
--   **[Liquen-php](https://github.com/baamenabar/Liquen-php)** <span class="caps">PHP</span> image
+-   **[Liquen-php](https://github.com/baamenabar/Liquen-php)** PHP image
     manipulation class (resize, crop and caching) [Demo](http://m0.cl/liquen-php/)
--   **[<span class="caps">PNG</span> with <span class="caps">PHP</span>](https://github.com/baamenabar/simplePNGwPHP)**
-    <span class="caps">GET</span> a simple <span class="caps">PNG</span> entering width, height and <span class="caps">RGBA</span> values.
+-   **[PNG with PHP](https://github.com/baamenabar/simplePNGwPHP)**
+    GET a simple PNG entering width, height and RGBA values.
 -   **[Medula codeBlog / SLyP](https://github.com/baamenabar/codeBlog)** My attempt to build a static
     blog generator after only hearing about Jekyll. Still remains as my code blog.
 -   **[Musicador](https://github.com/baamenabar/Musicador)** Music player designed for
@@ -385,7 +394,7 @@ Bilingual in English and Spanish.
 
 German basic level (A 2.1)
 
-## Personal information {#personal-information .break-page-before}
+## Personal information {#personal-information}
 
 -   **Full name:** Bernardo Agustín Amenábar Larraín
 -   **Birth date:** March 14, 1981
@@ -399,6 +408,7 @@ German basic level (A 2.1)
 
 -   [Github](https://github.com/baamenabar)
 -   [Code Blog](http://code.medula.cl)
+    Skype
 -   [Twitter](https://twitter.com/ImINaBAR) (en)
 -   [Twitter](https://twitter.com/baamenabar) (es)
 -   [G+](https://plus.google.com/114857870646629444715/) (en)

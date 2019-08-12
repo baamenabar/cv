@@ -1,24 +1,10 @@
-$azulHover: #06e;
-$amarilloMedula: #fac116;
-$amarilloMedulaFondo: #fcc212;
-$cyanMedula: #45bcd2;
-$grisClaro0: #f0f0f0;
-$grisClaro1: #e6e6e6;
-$font-serif: Constantia, 'Lucida Bright', Lucidabright, 'Lucida Serif', Lucida,
-    'DejaVu Serif', 'Bitstream Vera Serif', 'Liberation Serif', Georgia, serif;
-$font-sans: 'Museo Sans', Frutiger, 'Helvetica Neue', Helvetica, Arial,
-    sans-serif, 'Frutiger Linotype', Univers, Calibri, 'Gill Sans',
-    'Gill Sans MT', 'Myriad Pro', Myriad, 'DejaVu Sans Condensed',
-    'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva;
-
-//"museo-sans", "PT Sans", "ubuntu-mono", "pt-serif"
-
+@import 'vars';
 @import 'normalize';
 @import 'font-definitions';
 
 body {
-    font-size: 16px;
-    line-height: 26px;
+    font-size: 1em;
+    line-height: 2em;
     font-weight: 300;
     font-family: $font-sans;
 }
@@ -88,8 +74,8 @@ figure {
         white-space: pre;
     }
 }
-#logo {
-    width: 104px;
+.logo {
+    width: $logo-width;
     position: static;
     float: left;
     margin-right: 1em;
@@ -128,6 +114,34 @@ footer {
     max-width: 660px;
     margin: 0 auto;
 }
+a {
+    text-decoration: none;
+    border-bottom: 1px solid #ddd;
+    &:link,
+    &:visited {
+        border-bottom-color: #ddd;
+    }
+    &:visited {
+        color: #0088ff;
+    }
+    &:hover,
+    &:active,
+    &:focus {
+        border-bottom-color: $azulHover;
+    }
+    &.boton {
+        &:link,
+        &:visited {
+            border-bottom-color: #666;
+        }
+        &:hover,
+        &:active,
+        &:focus {
+            border-bottom-color: $azulHover;
+        }
+    }
+}
+
 main {
     header {
         h1 {
@@ -142,30 +156,6 @@ main {
         }
         h3 {
             font-style: italic;
-        }
-    }
-    a {
-        text-decoration: none;
-        border-bottom: 1px solid #ddd;
-        &:link,
-        &:visited {
-            border-bottom-color: #ddd;
-        }
-        &:hover,
-        &:active,
-        &:focus {
-            border-bottom-color: $azulHover;
-        }
-        &.boton {
-            &:link,
-            &:visited {
-                border-bottom-color: #666;
-            }
-            &:hover,
-            &:active,
-            &:focus {
-                border-bottom-color: $azulHover;
-            }
         }
     }
     figure {
@@ -196,7 +186,7 @@ main {
     border-bottom: 40px solid $grisClaro0;
 }
 @media (min-width: 923px) {
-    #logo {
+    .logo {
         position: fixed;
         top: 10px;
         left: 10px;

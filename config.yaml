@@ -4,6 +4,7 @@ languageCode: en-us
 title: Agustín Amenábar L. | CV – Résumé
 theme: avicenna
 assetDir: 'resources/assets'
+#publishDir: docs # https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-project-pages
 
 params:
     home:

@@ -1,15 +1,90 @@
+@import 'vars';
 
-* { background: transparent !important; box-shadow:none !important; } /* Black prints faster: h5bp.com/s */
-pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
-tr, img { page-break-inside: avoid; }
-img { max-width: 100% !important; }
-@page { margin: 0.5cm; }
-p, h2, h3 { orphans: 3; widows: 3; }
-h2, h3 { page-break-after: avoid; }
-.break-page-before{ page-break-before: always;}
-#logo{
-	position: static;
-	float: left;
-	margin-right: 1em;
-	width: 104px;
+* {
+    background: transparent !important;
+    box-shadow: none !important;
+} /* Black prints faster: h5bp.com/s */
+html {
+    font-size: 10pt;
+}
+body {
+    line-height: 1.75;
+}
+main,
+footer {
+    width: 19cm;
+    max-width: 100%;
+    padding-left: calc(#{$logo-width} + 2em);
+    padding-right: $logo-width;
+}
+pre,
+blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+}
+tr,
+img {
+    page-break-inside: avoid;
+    max-width: 100% !important;
+}
+@page {
+    margin: 0.5cm;
+}
+p,
+h2,
+h3 {
+    orphans: 3;
+    widows: 3;
+}
+h2,
+h3 {
+    page-break-after: avoid;
+}
+
+/**
+* This will render the URLs instead of the text in the links.
+*/
+.nav-print {
+    a {
+        font-size: 0;
+        &::after {
+            font-size: 12pt;
+            content: attr(href);
+        }
+    }
+}
+
+/**
+* This will hide content from the print view.
+*/
+.no-print {
+    display: none;
+}
+
+/**
+* Force a page break before this element.
+*/
+.break-page-before {
+    border-top: 1px solid red;
+    break-before: always;
+}
+
+.list {
+    ul {
+        padding-left: 2em;
+        column-count: 2;
+        column-gap: 0.5cm;
+    }
+}
+
+main {
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 0.5em;
+    width: $logo-width;
 }
