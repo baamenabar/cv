@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://iminabar.com/layouts/partials/footer/</loc>
+    <loc>https://iminabar.com/layouts/partials/footer/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iminabar.com/</loc>
+    <loc>https://iminabar.com/</loc>
   </url>
   
   <url>
-    <loc>http://iminabar.com/categories/</loc>
+    <loc>https://iminabar.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iminabar.com/layouts/</loc>
+    <loc>https://iminabar.com/layouts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iminabar.com/layouts/partials/</loc>
+    <loc>https://iminabar.com/layouts/partials/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iminabar.com/tags/</loc>
+    <loc>https://iminabar.com/tags/</loc>
     <priority>0</priority>
   </url>
   
