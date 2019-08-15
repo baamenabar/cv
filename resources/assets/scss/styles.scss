@@ -2,16 +2,16 @@
 @import 'normalize';
 @import 'font-definitions';
 
+/**
+* Foolish the one who copies this without undestanding the trap they are setting for themselves
+* These styles are literally intended for this one page, for anthing else, use BEM
+* use the BEM Luke!
+*/
 body {
     font-size: 1em;
     line-height: 2em;
     font-weight: 300;
     font-family: $font-sans;
-}
-
-.wrapper {
-    width: 90%;
-    margin: 0 5%;
 }
 
 i {
@@ -23,23 +23,22 @@ h1,
 h2,
 h3 {
     font-family: 'Museo Sans', $font-serif;
-    font-style: italic;
+    font-style: normal;
     font-weight: 900;
     font-size: 2em;
     color: #565656;
     line-height: 1em;
 }
-h2,
-h3 {
-    font-style: normal;
+h1 {
+    font-style: italic;
+}
+h2 {
     font-size: 1.725em;
 }
 h3 {
     font-size: 1.5em;
 }
-.the-year {
-    margin-top: -1.5em;
-}
+
 kbd {
     background-color: #333;
     border: 1px solid #ccc;
@@ -62,6 +61,7 @@ samp {
     padding: 0.1em 0.6em;
     text-shadow: 0 -1px 0 #fff;
 }
+
 figure {
     pre {
         word-break: normal;
@@ -74,46 +74,7 @@ figure {
         white-space: pre;
     }
 }
-.logo {
-    width: $logo-width;
-    position: static;
-    float: left;
-    margin-right: 1em;
-}
-.corporis {
-    border-top: 1px solid $cyanMedula;
-}
-nav {
-    li {
-        float: right;
-    }
-    a {
-        display: inline-block;
-        background: $cyanMedula;
-        padding: 0.5em 1em;
-        font-weight: bold;
-        transition: background-color 0.75s ease-out;
-        &:link,
-        &:visited {
-            color: #fff;
-            text-decoration: none;
-            background-color: $cyanMedula;
-        }
-        &:hover,
-        &:active,
-        &:focus {
-            text-decoration: underline;
-            background-color: #6ee7fe;
-        }
-    }
-}
 
-nav,
-main,
-footer {
-    max-width: 660px;
-    margin: 0 auto;
-}
 a {
     text-decoration: none;
     border-bottom: 1px solid #ddd;
@@ -142,6 +103,65 @@ a {
     }
 }
 
+.wrapper {
+    width: 90%;
+    margin: 0 5%;
+}
+
+.the-year {
+    margin-top: -1.5em;
+}
+
+.corporis {
+    border-top: 1px solid $cyanMedula;
+    padding: 0 1em;
+}
+
+.logo {
+    width: $logo-width;
+    position: static;
+    float: left;
+    margin-right: 1em;
+}
+
+img {
+    max-width: 100%;
+}
+
+nav {
+    li {
+        float: right;
+    }
+
+    a {
+        display: inline-block;
+        background: $cyanMedula;
+        padding: 0.5em 1em;
+        font-weight: bold;
+        transition: background-color 0.75s ease-out;
+        &:link,
+        &:visited {
+            color: #fff;
+            text-decoration: none;
+            background-color: $cyanMedula;
+        }
+        &:hover,
+        &:active,
+        &:focus {
+            text-decoration: underline;
+            background-color: #6ee7fe;
+        }
+    }
+}
+
+nav,
+main,
+footer {
+    max-width: 660px;
+    margin: 0 auto;
+}
+
+// I have already regretted 2 times nesting here
 main {
     header {
         h1 {
@@ -158,33 +178,36 @@ main {
             font-style: italic;
         }
     }
+
     figure {
         font-family: $font-serif;
         background: #fff;
         padding: 1em;
         border: 1px solid #ccc;
         margin: 0 -1em 1em -1em;
+
         .boxshadow & {
             border: none;
             box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.3);
         }
+
         img {
-            max-width: 100%;
             border: 1px dotted #ddd;
         }
     }
-    img {
-        max-width: 100%;
-    }
+
     footer {
         background: none;
         border: 1px solid transparent;
         padding: 0;
     }
 }
+
 .footer {
     border-bottom: 40px solid $grisClaro0;
+    padding: 0 1em;
 }
+
 @media (min-width: 923px) {
     .logo {
         position: fixed;
@@ -192,6 +215,7 @@ main {
         left: 10px;
     }
 }
+
 @media print {
     @import 'print';
 }

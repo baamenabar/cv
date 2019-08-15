@@ -11,7 +11,7 @@ body {
     line-height: 1.75;
 }
 main,
-footer {
+.footer {
     width: 19cm;
     max-width: 100%;
     padding-left: calc(#{$logo-width} + 2em);
@@ -41,6 +41,10 @@ h3 {
     page-break-after: avoid;
 }
 
+ul {
+    padding-left: 2em;
+}
+
 /**
 * This will render the URLs instead of the text in the links.
 */
@@ -50,6 +54,10 @@ h3 {
         &::after {
             font-size: 12pt;
             content: attr(href);
+
+            .footer & {
+                font-size: 10pt;
+            }
         }
     }
 }
@@ -65,16 +73,26 @@ h3 {
 * Force a page break before this element.
 */
 .break-page-before {
-    border-top: 1px solid red;
+    border-top: 1px solid $cyanMedula;
     break-before: always;
+    break-before: page;
 }
 
 .list {
     ul {
-        padding-left: 2em;
         column-count: 2;
         column-gap: 0.5cm;
     }
+}
+
+.grouped-lists {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list-group {
+    width: calc(50% - 0.5cm);
+    margin-right: 0.5cm;
 }
 
 main {
@@ -87,4 +105,8 @@ main {
     left: 0;
     margin-left: 0.5em;
     width: $logo-width;
+}
+
+.footer {
+    border: 0;
 }
