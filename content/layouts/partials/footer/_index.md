@@ -1,7 +1,7 @@
 ---
 ---
 
-  <div class="section grouped-lists"><div class="list-group">
+  <div class="section grouped-lists"><div class="list-group nav-print">
 
 ## Me elsewhere {#endless-links}
 
