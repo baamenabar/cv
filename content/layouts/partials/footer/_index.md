@@ -22,7 +22,7 @@
 [This site has it’s own repository on Github](https://github.com/baamenabar/cv), built using
 Hugo written with Markdown.
 
-This HTML CV has also been designed to be printed or saved as a PDF in A4 format with the proper page-breaks. It will maintain most of it’s layout. If you are reading this printed or on a PDF, you can visit the original, more complete (and maybe updated) CV on [iminabar.com](http://iminabar.com/)
+This online CV has been also designed to be printed or saved as a PDF in A4 format with the proper page-breaks. If you are reading this printed or on a PDF, you can visit the original, more complete (and maybe updated) CV on [iminabar.com](http://iminabar.com/)
 
 Thanks for reading so far.  
 Agustín

@@ -162,9 +162,7 @@ Graphic Design, interactive design and web development.
 Audiovisual production and post-production.  
 3D modeling, animation and rendering.
 
-#### Responsibilities:
-
--   Design and development of websites and multimedia interactive software (Flash and Director).
+Here I worked on the design and development of websites and multimedia interactive software (Flash and Director).
 
 ---
 
@@ -218,6 +216,9 @@ Some work fine and I use everyday, some are work in progress; all could use some
 -   **[Musicador](https://github.com/baamenabar/Musicador)** Music player designed for non-destructive cropping of songs to create, manage and migrate music for _roleplaying_ sessions (mp3 files).
 
 </div>
+
+---
+
 <div class="no-print">
 
 ### Day to day Tools
@@ -294,21 +295,6 @@ profit.
 Note: the huilmo.org website was hacked together from a lousy template in one night, not my code.
 
 The repo can be found at: <https://github.com/baamenabar/vas>
-
----
-
-### DMJ Analytics
-
-#### (2014) {#section-3 .the-year}
-
-[dmjanalytics.com](http://dmjanalytics.com/)
-
-A deep exploration of authoring and managing SVG assets with modern tools like Gulp.
-
-The SVG animation and CSS animations of SVG
-where also hand coded.
-
-The site is small and optimized for mobile, responsibly responsive, mobile first.
 
 ---
 
@@ -416,15 +402,5 @@ I have done several more e-commerce and e-commerce-like sites, some of the ones 
 -   <http://catalinaamenabar.cl/appp/> This is a mobile sales app I
     did in a weekend for a pastry shop ([The website too](http://catalinaamenabar.cl/)).
 -   e-commerce for a now closed Video games shop: <http://goodgame.cl/> (archive)
-
-</div>
-
----
-
-<div class="no-print">
-
-Working on the web mostly passionately as a front-end developer, always trying to integrate new technologies or new approaches into projects. Huge fan of the 80/20 principle, especially when time is scarce.
-
-Giving wings to designers’ creativity, providing them with options and ideas has been my work for more than 14 years. Doing responsive design before the term was even coined (since the era of full Flash sites). A veteran ActionScript orphan, now in love with front–end technologies, semantics and progressive enhancement. Particularly re-enchanted by JavaScript in the recent years.
 
 </div>
