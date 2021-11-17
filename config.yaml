@@ -3,9 +3,13 @@ disablePathToLower: true
 languageCode: en-us
 title: Agustín Amenábar L. | CV – Résumé
 theme: avicenna
-assetDir: 'resources/assets'
+assetDir: "resources/assets"
 #publishDir: docs # https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-project-pages
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
 
 params:
     home:
-        title: 'CV – Résumé'
+        title: "CV – Résumé"
