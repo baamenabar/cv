@@ -10,8 +10,8 @@ Senior Engineering Manager / Frontend Engineer / Designer
 
   <div class="nav-print">
 
-[ImINaBAR.com](https://iminabar.com "CV") – [GitHub](https://github.com/baamenabar) –
-[Code Blog](https://code.medula.cl) <span class="no-print">– [More links at the bottom](#endless-links)</span>
+[ImINaBAR.com](https://iminabar.com "CV") – [GitHub](https://github.com/baamenabar) <!-- –
+[Code Blog](https://code.medula.cl) --> <span class="no-print">– [More links at the bottom](#endless-links)</span>
 
   </div>
 
@@ -21,40 +21,45 @@ Senior Engineering Manager / Frontend Engineer / Designer
 
 Graphic designer by training, software developer by passion, addicted to Continuous Delivery.
 
-Doing the most varied work in tech since 2004, always elbow to elbow with designers and business. From UX to server–side optimization, a wide view of problems usually lets me find solutions where they are most effective.
+Doing the most varied work in tech since 2004, always elbow to elbow with designers, Product, and Business. From UX to server–side optimization, a wide view of problems usually lets me find solutions where they are most effective.
 
 </div>
 
 <div class="section list">
 
-## Work Experience {#work-experience}
+## Work Experience
 
 ### Feb 2018 – Today: EQS Group
 
 Supporting the 5 Cloud Teams of the IR COCKPIT.
 
-Company dedicated to provide a software platform and services for Investor Relations, Communication and Compliance. With most of the German DAX companies as customers.
+Company dedicated to provide a software platform and services for Investor Relations, Communication and Corportate Compliance. With most of the German DAX companies as customers. And the biggest European provider of Whistleblower software.
 
-I joined the Frontend team responsible for building the new flagship product of the company in Angular 5+ and the the emerging **Component Library**.
+I joined the Frontend team responsible for building the new flagship product of the company in Angular 5+ and the emerging **Component Library**.
 
-In late 2019, took the technical responsibility for the "new Cockpit" and reorganized it in 3 product teams. Today we are 5 Teams.
+In late 2019, took the technical responsibility for the "new Cockpit", reorganized the engineering teams, and grew it to 5 Teams.
+
+In late 2022, moved to the Corporate Compliance division where the task has been to integrate the engineering teams coming from the BK acquisition into our Private Cloud Kubernetes Infrastructure, Frontend tech stack, and engineering culture.
 
 #### Roles:
 
--   **Senior Engineering Manager** for the IR COCKPIT (5 Teams) (present)
+-   **Senior Engineering Manager** 
+    - BKMS System: Enterprise Compliance Whistleblower SaaS (present)
+    - IR COCKPIT (5 Teams) (Until September 2022)
 -   **Team Lead** of the Frontend engineers (Until September 2019)
 -   **Senior Frontend Engineer** (Until March 2019)
 
 #### Responsibilities:
 
--   Leading managers, tech teams and individual contributors.
--   Product planning.
--   Technical roadmap.
+-   Managing managers, tech teams and individual contributors.
+-   Career progression and performance assessment framework.
+-   Product planning & technical roadmap.
 -   Resource & capacity planning and budgeting.
 -   Active member of the ISMS
--   Recruiting, creating tests and taking interviews.
+-   Hiring: Recruiting, creating tests and taking interviews.
+-   Architectural reviews of technical initiatives, from whiteboard to code reviews.
 -   Onboarding for engineers and managers.
--   Frontend architecture and our Component Library using Storybook and ng-packager.
+-   Our Component Library using Storybook and ng-packager.
 -   Release Management / Release protocol.
 -   Frontend Training for developers starting on Frontend.
 -   HTML, CSS, Typescript + Angular development.

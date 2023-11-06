@@ -82,6 +82,9 @@ ul {
     ul {
         column-count: 2;
         column-gap: 0.5cm;
+        ul {
+            column-count: 1;
+        }
     }
 }
 
